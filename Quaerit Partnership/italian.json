@@ -1,0 +1,8 @@
+{
+   "utility":{
+      "ping":{
+         "ping.Title":":ping_pong: Pong!"
+         "ping.Description":":ping_pong: Ping Medio: %PING% ms.\nLatenza API: %LATENCY% ms."
+      }
+   }
+}
