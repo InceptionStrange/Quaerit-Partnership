@@ -2,7 +2,7 @@
    "utility":{
       "ping":{
          "ping.Title":":ping_pong: Pong!",
-         "ping.Description":"Ping Medio: __%PING%__ ms.\nLatenza API: __%LATENCY%__ ms."
+         "ping.Description":"Ping Medio: __%PING% ms__.\nLatenza API: __%LATENCY% ms__."
       }
    }
 }
