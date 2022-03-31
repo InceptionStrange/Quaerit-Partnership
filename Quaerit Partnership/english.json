@@ -2,7 +2,7 @@
    "utility":{
       "ping":{
          "ping.Title":":ping_pong: Pong!",
-         "ping.Description":"Average Ping: __%PING%__ ms.\nLatency API: __%LATENCY%__ ms."
+         "ping.Description":"Average Ping: __%PING% ms__.\nLatency API: __%LATENCY% ms__."
       }
    }
 }
