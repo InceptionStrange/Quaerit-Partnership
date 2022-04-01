@@ -4,5 +4,10 @@
          "ping.Title":":ping_pong: Pong!",
          "ping.Description":"Ping Medio: __%PING% ms__.\nLatenza API: __%LATENCY% ms__."
       }
+      },
+      "NotActivePartnership":{
+         "NotActive.Title":"<:No:897489299908485170> • Non Autorizzato",
+         "NotActive.Description":"Questo server non è autorizzato ad usare Quaerit Partnership."
+      }
    }
 }
