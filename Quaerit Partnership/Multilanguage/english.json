@@ -3,6 +3,10 @@
       "ping":{
          "ping.Title":":ping_pong: Pong!",
          "ping.Description":"Average Ping: __%PING% ms__.\nLatency API: __%LATENCY% ms__."
+      },
+      "NotActivePartnership":{
+         "NotActive.Title":"<:No:897489299908485170> • Unauthorized",
+         "NotActive.Description":"This Server it is not authorized to use Quaerit Partnership."
       }
    }
 }
