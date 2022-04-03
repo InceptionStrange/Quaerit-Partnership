@@ -8,5 +8,7 @@
    "926532034741039184":{
       "partnership.Title":"Testing Server",
       "partnership.Description":"Fun Test"
+      "partnership.color": 0,
+      "partnership.image": null
    }
 }
