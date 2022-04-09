@@ -1,9 +1,39 @@
 {
+   
+   "GeneralErrors":{
+      "NotVerifiedTarget":{
+         "NotVerified.Color":16728368,
+         "NotVerified.Title":"<:No:897489299908485170> Not Verified.",
+         "NotVerified.Description":"You or the Target is not verified with our system."
+      }
+   },
+   
    "utility":{
+      
       "ping":{
-         "ping.Color": 7631988,
+         "ping.Color":7631988,
          "ping.Title":"Pong!",
          "ping.Description":"Average Ping: __%PING% ms__.\nLatency API: __%LATENCY% ms__."
+      },
+      
+      "info":{
+         "info.Title":"Quaerit • %USER_RBLX%",
+         "info.Field1":{
+            "name":"Quaerit Account Stats",
+            "value":"\n> Total Commissions: **%COMMISSION_NUMBER%**\n> Current Commission Status: %COMMISSION_STATUS%\n> Bot privileges: %BOT_PERMISSIONS%\n> Strike: %STRIKE%"
+         },
+         "info.Field2":{
+            "name":"Roblox Account Stats",
+            "value":"\n> DisplayName: %RBLX_DISPLAYNAME%\n> Account age: %RBLX_AGE%\n> Friends: %RBLX_FRIEND%"
+         },
+         "info.Field3":{
+            "name":"Achievements",
+            "value":"\n> Unlocked: %ACHIEVEMENTS_LIST%"
+         },
+         "info.Field4":{
+            "name":"Current Coupon",
+            "value":"\n> Available: %COUPON_LIST%"
+         }
       }
    }
 }
