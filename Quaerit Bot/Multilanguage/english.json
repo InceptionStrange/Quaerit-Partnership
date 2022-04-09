@@ -4,6 +4,6 @@
          "ping.Color": 7631988,
          "ping.Title":":ping_pong: Pong!",
          "ping.Description":"Average Ping: __%PING% ms__.\nLatency API: __%LATENCY% ms__."
-      },
+      }
    }
 }
