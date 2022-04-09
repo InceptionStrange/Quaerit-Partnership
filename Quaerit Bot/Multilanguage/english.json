@@ -8,8 +8,7 @@
       }
    },
    
-   "utility":{
-      
+   "utility":{      
       "ping":{
          "ping.Color":7631988,
          "ping.Title":"Pong!",
