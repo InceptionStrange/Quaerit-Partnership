@@ -1,6 +1,7 @@
 {
    "utility":{
       "ping":{
+         "ping.Color": 7631988,
          "ping.Title":":ping_pong: Pong!",
          "ping.Description":"Ping Medio: __%PING% ms__.\nLatenza API: __%LATENCY% ms__."
       },
