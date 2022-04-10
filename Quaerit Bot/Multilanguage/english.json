@@ -1,5 +1,4 @@
 {
-   
    "GeneralErrors":{
       "NotVerifiedTarget":{
          "NotVerified.Color":16728368,
@@ -7,14 +6,12 @@
          "NotVerified.Description":"You or the Target is not verified with our system."
       }
    },
-   
-   "utility":{      
+   "utility":{
       "ping":{
          "ping.Color":7631988,
          "ping.Title":"Pong!",
          "ping.Description":"Average Ping: __%PING% ms__.\nLatency API: __%LATENCY% ms__."
       },
-      
       "info":{
          "info.Title":"Quaerit • %USER_RBLX%",
          "info.Field1":{
@@ -32,6 +29,23 @@
          "info.Field4":{
             "name":"Current Coupon",
             "value":"\n> Available: %COUPON_LIST%"
+         }
+      },
+      "feedback":{
+         "modalbox":{
+            "modalbox.Title":"Feedback Forms",
+            "Input1":{
+               "Input1.Label":"Product",
+               "Input1.PlaceHolder":"What Did you order?"
+            },
+            "Input2":{
+               "Input1.Label":"comment",
+               "Input1.PlaceHolder":"Write a short comment on the product you bought."
+            },
+            "Input3":{
+               "Input1.Label":"star",
+               "Input1.PlaceHolder":"Insert a Number between 1 and 5"
+            }
          }
       }
    }
