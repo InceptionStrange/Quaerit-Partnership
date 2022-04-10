@@ -1,9 +1,14 @@
-{
+ {
    "GeneralErrors":{
       "NotVerifiedTarget":{
          "NotVerified.Color":16728368,
          "NotVerified.Title":"<:No:897489299908485170> Non Verificato.",
          "NotVerified.Description":"Tu o il target non siete verificati."
+      },
+      "NoPermissions":{
+         "NoPermissions.Color":16728368,
+         "NoPermissions.Title":"<:No:897489299908485170> Non Autorizzato",
+         "NoPermissions.Description":"Non hai i permessi necessari per eseguire il comando."
       }
    },
    "utility":{
