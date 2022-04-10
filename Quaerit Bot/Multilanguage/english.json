@@ -39,12 +39,12 @@
                "Input1.PlaceHolder":"What Did you order?"
             },
             "Input2":{
-               "Input1.Label":"comment",
-               "Input1.PlaceHolder":"Write a short comment on the product you bought."
+               "Input2.Label":"comment",
+               "Input2.PlaceHolder":"Write a short comment on the product you bought."
             },
             "Input3":{
-               "Input1.Label":"star",
-               "Input1.PlaceHolder":"Insert a Number between 1 and 5"
+               "Input3.Label":"star",
+               "Input3.PlaceHolder":"Insert a Number between 1 and 5"
             }
          }
       }
