@@ -19,7 +19,7 @@
          "info.Title":"Quaerit • %USER_RBLX%",
          "info.Field1":{
             "name":"Quaerit Account Stats",
-            "value":"\n> Total Commissions: **%COMMISSION_NUMBER%** \n> Current Commission Status: %COMMISSION_STATUS% \n> Bot privileges: %BOT_PERMISSIONS% \n> Strike: %STRIKE%"
+            "value":"\n> Total Commissions: **%COMMISSION_NUMBER%**\n> Strike: **%STRIKE%**\n> Current Commission Status: %COMMISSION_STATUS%\n> Bot privileges: %BOT_PERMISSIONS%"
          },
          "info.Field2":{
             "name":"Roblox Account Stats",
