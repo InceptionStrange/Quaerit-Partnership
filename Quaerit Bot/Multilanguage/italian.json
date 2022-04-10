@@ -16,7 +16,7 @@
             "info.Title": "Quaerit • %USER_RBLX%",
             "info.Field1": {
                 "name": "Statische Quaerit Account",
-                "value": "\n> Commissioni Totali: **%COMMISSION_NUMBER%**\n> Stato Commissione: %COMMISSION_STATUS%\n> Privilegi Bot: %BOT_PERMISSIONS%\n> Strike: %STRIKE%"
+                "value": "\n> Commissioni Totali: **%COMMISSION_NUMBER%**\n> Strike: **%STRIKE%**\n> Stato Commissione: %COMMISSION_STATUS%\n> Privilegi Bot: %BOT_PERMISSIONS%"
             },
             "info.Field2": {
                 "name": "Statistiche Roblox Account",
