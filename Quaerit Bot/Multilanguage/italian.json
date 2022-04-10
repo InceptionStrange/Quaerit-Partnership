@@ -39,12 +39,12 @@
                "Input1.PlaceHolder":"Che cosa hai ordinato?"
             },
             "Input2":{
-               "Input1.Label":"Commento",
-               "Input1.PlaceHolder":"Scrivi un breve commento su quello che hai comprato."
+               "Input2.Label":"Commento",
+               "Input2.PlaceHolder":"Scrivi un breve commento su quello che hai comprato."
             },
             "Input3":{
-               "Input1.Label":"Stelle",
-               "Input1.PlaceHolder":"Inserisci un numero da 1 a 5"
+               "Input3.Label":"Stelle",
+               "Input3.PlaceHolder":"Inserisci un numero da 1 a 5"
             }
          }
       }
