@@ -1,36 +1,52 @@
 {
-    "GeneralErrors": {
-        "NotVerifiedTarget": {
-            "NotVerified.Color": 16728368,
-            "NotVerified.Title": "<:No:897489299908485170> Non Verificato.",
-            "NotVerified.Description": "Tu o il target non siete verificati."
-        }
-    },
-    "utility":{
-       "ping":{
-          "ping.Color": 7631988,
-          "ping.Title":"Pong!",
-          "ping.Description":"Ping Medio: __%PING% ms__.\nLatenza API: __%LATENCY% ms__."
-       },
-       "info":{
-            "info.Title": "Quaerit • %USER_RBLX%",
-            "info.Field1": {
-                "name": "Statische Quaerit Account",
-                "value": "\n> Commissioni Totali: **%COMMISSION_NUMBER%**\n> Strike: **%STRIKE%**\n> Stato Commissione: %COMMISSION_STATUS%\n> Privilegi Bot: %BOT_PERMISSIONS%"
+   "GeneralErrors":{
+      "NotVerifiedTarget":{
+         "NotVerified.Color":16728368,
+         "NotVerified.Title":"<:No:897489299908485170> Non Verificato.",
+         "NotVerified.Description":"Tu o il target non siete verificati."
+      }
+   },
+   "utility":{
+      "ping":{
+         "ping.Color":7631988,
+         "ping.Title":"Pong!",
+         "ping.Description":"Ping Medio: __%PING% ms__.\nLatenza API: __%LATENCY% ms__."
+      },
+      "info":{
+         "info.Title":"Quaerit • %USER_RBLX%",
+         "info.Field1":{
+            "name":"Statische Quaerit Account",
+            "value":"\n> Commissioni Totali: **%COMMISSION_NUMBER%**\n> Strike: **%STRIKE%**\n> Stato Commissione: %COMMISSION_STATUS%\n> Privilegi Bot: %BOT_PERMISSIONS%"
+         },
+         "info.Field2":{
+            "name":"Statistiche Roblox Account",
+            "value":"\n> DisplayName: %RBLX_DISPLAYNAME%\n> Età Account: %RBLX_AGE%\n> Amici: %RBLX_FRIEND%"
+         },
+         "info.Field3":{
+            "name":"Traguardi",
+            "value":"\n> Sbloccati: %ACHIEVEMENTS_LIST%"
+         },
+         "info.Field4":{
+            "name":"Coupon Correnti",
+            "value":"\n> Disponibili: %COUPON_LIST%"
+         }
+      },
+      "feedback":{
+         "modalbox":{
+            "modalbox.Title":"Feedback",
+            "Input1":{
+               "Input1.Label":"Prodotto",
+               "Input1.PlaceHolder":"Che cosa hai ordinato?"
             },
-            "info.Field2": {
-                "name": "Statistiche Roblox Account",
-                "value": "\n> DisplayName: %RBLX_DISPLAYNAME%\n> Età Account: %RBLX_AGE%\n> Amici: %RBLX_FRIEND%"
+            "Input2":{
+               "Input1.Label":"Commento",
+               "Input1.PlaceHolder":"Scrivi un breve commento su quello che hai comprato."
             },
-            "info.Field3": {
-                "name": "Traguardi",
-                "value": "\n> Sbloccati: %ACHIEVEMENTS_LIST%"
-            },
-            "info.Field4": {
-                "name": "Coupon Correnti",
-                "value": "\n> Disponibili: %COUPON_LIST%"
+            "Input3":{
+               "Input1.Label":"Stelle",
+               "Input1.PlaceHolder":"Inserisci un numero da 1 a 5"
             }
-            
-       }
-    }
- }
+         }
+      }
+   }
+}
