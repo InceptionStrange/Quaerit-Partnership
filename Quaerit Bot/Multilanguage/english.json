@@ -2,8 +2,13 @@
    "GeneralErrors":{
       "NotVerifiedTarget":{
          "NotVerified.Color":16728368,
-         "NotVerified.Title":"<:No:897489299908485170> Not Verified.",
+         "NotVerified.Title":"<:No:897489299908485170> Not Verified",
          "NotVerified.Description":"You or the Target is not verified with our system."
+      },
+      "NoPermissions":{
+         "NoPermissions.Color":16728368,
+         "NoPermissions.Title":"<:No:897489299908485170> You don't have Permissions",
+         "NoPermissions.Description":"You do not have the necessary permissions to execute the command."
       }
    },
    "utility":{
