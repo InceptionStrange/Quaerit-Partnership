@@ -52,10 +52,10 @@
                 "Input3.PlaceHolder":"Insert a Number between 1 and 5"
              }
           },
-          "StartInput": {
-            "StartInput.Color":16728368,
-            "StartInput.Title":"<:No:897489299908485170> Invalid Input",
-            "StartInput.Description":"You Must insert a number between 1 and 5."
+          "StarInput": {
+            "StarInput.Color":16728368,
+            "StarInput.Title":"<:No:897489299908485170> Invalid Input",
+            "StarInput.Description":"You Must insert a number between 1 and 5."
           }
        }
     }
