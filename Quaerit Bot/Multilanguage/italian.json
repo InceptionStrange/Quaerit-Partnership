@@ -51,7 +51,12 @@
                "Input3.Label":"Stelle",
                "Input3.PlaceHolder":"Inserisci un numero da 1 a 5"
             }
-         }
+         },
+       "StartInput": {
+            "StartInput.Color":16728368,
+            "StartInput.Title":"<:No:897489299908485170> Input Invalido",
+            "StartInput.Description":"Devi inserire un numero da 1 a 5."
+          }
       }
    }
 }
