@@ -1,57 +1,62 @@
 {
-   "GeneralErrors":{
-      "NotVerifiedTarget":{
-         "NotVerified.Color":16728368,
-         "NotVerified.Title":"<:No:897489299908485170> Not Verified",
-         "NotVerified.Description":"You or the Target is not verified with our system."
-      },
-      "NoPermissions":{
-         "NoPermissions.Color":16728368,
-         "NoPermissions.Title":"<:No:897489299908485170> You don't have Permissions",
-         "NoPermissions.Description":"You do not have the necessary permissions to execute the command."
-      }
-   },
-   "utility":{
-      "ping":{
-         "ping.Color":7631988,
-         "ping.Title":"Pong!",
-         "ping.Description":"Average Ping: __%PING% ms__.\nLatency API: __%LATENCY% ms__."
-      },
-      "info":{
-         "info.Title":"Quaerit • %USER_RBLX%",
-         "info.Field1":{
-            "name":"Quaerit Account Stats",
-            "value":"\n> Total Commissions: **%COMMISSION_NUMBER%**\n> Strike: **%STRIKE%**\n> Current Commission Status: %COMMISSION_STATUS%\n> Bot privileges: %BOT_PERMISSIONS%"
-         },
-         "info.Field2":{
-            "name":"Roblox Account Stats",
-            "value":"\n> DisplayName: %RBLX_DISPLAYNAME%\n> Account age: %RBLX_AGE%\n> Friends: %RBLX_FRIEND%"
-         },
-         "info.Field3":{
-            "name":"Achievements",
-            "value":"\n> Unlocked: %ACHIEVEMENTS_LIST%"
-         },
-         "info.Field4":{
-            "name":"Current Coupon",
-            "value":"\n> Available: %COUPON_LIST%"
-         }
-      },
-      "feedback":{
-         "modalbox":{
-            "modalbox.Title":"Feedback Forms",
-            "Input1":{
-               "Input1.Label":"Product",
-               "Input1.PlaceHolder":"What Did you order?"
-            },
-            "Input2":{
-               "Input2.Label":"comment",
-               "Input2.PlaceHolder":"Write a short comment on the product you bought."
-            },
-            "Input3":{
-               "Input3.Label":"star",
-               "Input3.PlaceHolder":"Insert a Number between 1 and 5"
-            }
-         }
-      }
-   }
-}
+    "GeneralErrors":{
+       "NotVerifiedTarget":{
+          "NotVerified.Color":16728368,
+          "NotVerified.Title":"<:No:897489299908485170> Not Verified",
+          "NotVerified.Description":"You or the Target is not verified with our system."
+       },
+       "NoPermissions":{
+          "NoPermissions.Color":16728368,
+          "NoPermissions.Title":"<:No:897489299908485170> You don't have Permissions",
+          "NoPermissions.Description":"You do not have the necessary permissions to execute the command."
+       }
+    },
+    "utility":{
+       "ping":{
+          "ping.Color":7631988,
+          "ping.Title":"Pong!",
+          "ping.Description":"Average Ping: __%PING% ms__.\nLatency API: __%LATENCY% ms__."
+       },
+       "info":{
+          "info.Title":"Quaerit • %USER_RBLX%",
+          "info.Field1":{
+             "name":"Quaerit Account Stats",
+             "value":"\n> Total Commissions: **%COMMISSION_NUMBER%**\n> Strike: **%STRIKE%**\n> Current Commission Status: %COMMISSION_STATUS%\n> Bot privileges: %BOT_PERMISSIONS%"
+          },
+          "info.Field2":{
+             "name":"Roblox Account Stats",
+             "value":"\n> DisplayName: %RBLX_DISPLAYNAME%\n> Account age: %RBLX_AGE%\n> Friends: %RBLX_FRIEND%"
+          },
+          "info.Field3":{
+             "name":"Achievements",
+             "value":"\n> Unlocked: %ACHIEVEMENTS_LIST%"
+          },
+          "info.Field4":{
+             "name":"Current Coupon",
+             "value":"\n> Available: %COUPON_LIST%"
+          }
+       },
+       "feedback":{
+          "modalbox":{
+             "modalbox.Title":"Feedback Forms",
+             "Input1":{
+                "Input1.Label":"Product",
+                "Input1.PlaceHolder":"What Did you order?"
+             },
+             "Input2":{
+                "Input2.Label":"comment",
+                "Input2.PlaceHolder":"Write a short comment on the product you bought."
+             },
+             "Input3":{
+                "Input3.Label":"star",
+                "Input3.PlaceHolder":"Insert a Number between 1 and 5"
+             }
+          },
+          "StartInput": {
+            "StartInput.Color":16728368,
+            "StartInput.Title":"<:No:897489299908485170> Invalid Input",
+            "StartInput.Description":"You Must insert a number between 1 and 5."
+          }
+       }
+    }
+ }
