@@ -56,7 +56,12 @@
             "StarInput.Color":16728368,
             "StarInput.Title":"<:No:897489299908485170> Invalid Input",
             "StarInput.Description":"You Must insert a number between 1 and 5."
-          }
+          },
+           "FeedbackSuccess":{
+            "FeedbackSuccess.Color":5093956,
+            "FeedbackSuccess.Title":"<:Yes:895295399814914109> Success",
+            "FeedbackSuccess.Description":"Thank you very much for rating one of our products, you're feedback will be posted soon in: <#891342138497966110>."
+         }
        }
     }
  }
