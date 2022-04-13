@@ -56,6 +56,11 @@
             "StarInput.Color":16728368,
             "StarInput.Title":"<:No:897489299908485170> Input Invalido",
             "StarInput.Description":"Devi inserire un numero da 1 a 5."
+         },
+         "FeedbackSuccess":{
+            "FeedbackSuccess.Color":5093956,
+            "FeedbackSuccess.Title":"<:Yes:895295399814914109> Successo",
+            "FeedbackSuccess.Description":"Grazie mille per aver valutato uno dei nostri prodotti, il tuo feedback sarà pubblicato presto in: <#891342138497966110>."
          }
       }
    }
