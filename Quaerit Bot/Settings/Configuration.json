@@ -8,7 +8,9 @@
       "StaffIcon":"<:StaffIcon:898669562092998666>",
       "DeveloperIcon":"<:Developer:898669590882680843>",
       "TeamHeadIcon":"<:TeamHeadIcon:898669603302014978>",
-      "CreativeDirectorIcon":"<:CreativeDirector:898669625397624892>"
+      "CreativeDirectorIcon":"<:CreativeDirector:898669625397624892>",
+      
+      "AnnounceIcon": "<:Announce:927965544257314826>"
    },
    "Feedback":{
       "ChannelId":"926845344095027200",
