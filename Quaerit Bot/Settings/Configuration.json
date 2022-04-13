@@ -1,13 +1,17 @@
 {
-    "Emojy": {
-        "VisitorIcon": "<:Visitor:898669478076891138>",
-        "CostumerIcon": "<:Customer:898669508712075274>",
-        "ValutedCostumerIcon": "<:ValuedCustomer:898669533936631808>",
-        "VipIcon": "<:Vip:898669533936631808>",
-        "PartnerIcon": "<:PartnerIcon:932356557151289375>",
-        "StaffIcon": "<:StaffIcon:898669562092998666>",
-        "DeveloperIcon": "<:Developer:898669590882680843>",
-        "TeamHeadIcon": "<:TeamHeadIcon:898669603302014978>",
-        "CreativeDirectorIcon": "<:CreativeDirector:898669625397624892>"
-    }
+   "Emojy":{
+      "VisitorIcon":"<:Visitor:898669478076891138>",
+      "CostumerIcon":"<:Customer:898669508712075274>",
+      "ValutedCostumerIcon":"<:ValuedCustomer:898669533936631808>",
+      "VipIcon":"<:Vip:898669533936631808>",
+      "PartnerIcon":"<:PartnerIcon:932356557151289375>",
+      "StaffIcon":"<:StaffIcon:898669562092998666>",
+      "DeveloperIcon":"<:Developer:898669590882680843>",
+      "TeamHeadIcon":"<:TeamHeadIcon:898669603302014978>",
+      "CreativeDirectorIcon":"<:CreativeDirector:898669625397624892>"
+   },
+   "Feedback":{
+      "ChannelId":"926845344095027200",
+      "StarIcon":"<:Star:954737999407632434>"
+   }
 }
