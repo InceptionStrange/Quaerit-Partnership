@@ -1,9 +1,9 @@
 {
     "GeneralErrors":{
        "NotVerifiedTarget":{
-          "NotVerified.Color":16728368,
-          "NotVerified.Title":"<:No:897489299908485170> Not Verified",
-          "NotVerified.Description":"You or the Target is not verified with our system."
+          "NotVerifiedTarget.Color":16728368,
+          "NotVerifiedTarget.Title":"<:No:897489299908485170> Not Verified",
+          "NotVerifiedTarget.Description":"You or the Target is not verified with our system."
        },
         "NotVerified":{
          "NotVerified.Color":16728368,
