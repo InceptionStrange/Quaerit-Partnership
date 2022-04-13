@@ -68,5 +68,14 @@
             "FeedbackSuccess.Description":"Thank you very much for rating one of our products, you're feedback will be posted soon in: <#891342138497966110>."
          }
        }
-    }
+    },
+    "verification": {
+      "verify": {
+         "AlreadyVerified": {
+            "AlreadyVerified.Color": 16728368,
+            "AlreadyVerified.Title":"<:No:897489299908485170> Already Verified",
+            "AlreadyVerified.Description": "You're already verified with our system. Some others helpful commands: \n\n `/reverify` ➤ Change Verified Account.\n `/getrole` ➤ Update you're Discord account roles."
+         }
+      }
+   }
  }
