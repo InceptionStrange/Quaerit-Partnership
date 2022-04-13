@@ -12,6 +12,8 @@
    },
    "Feedback":{
       "ChannelId":"926845344095027200",
-      "StarIcon":"<:Star:954737999407632434>"
+      "StarIcon":"<:Star:954737999407632434>",
+      "CostumerEmbedColor": 4762971,
+      "ValutedCostumerEmbedColor": 685103,
    }
 }
