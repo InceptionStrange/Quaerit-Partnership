@@ -1,9 +1,14 @@
 {
    "GeneralErrors":{
       "NotVerifiedTarget":{
+         "NotVerifiedTarget.Color":16728368,
+         "NotVerifiedTarget.Title":"<:No:897489299908485170> Non Verificato.",
+         "NotVerifiedTarget.Description":"Tu o il target non siete verificati."
+      },
+      "NotVerified":{
          "NotVerified.Color":16728368,
          "NotVerified.Title":"<:No:897489299908485170> Non Verificato.",
-         "NotVerified.Description":"Tu o il target non siete verificati."
+         "NotVerified.Description":"Non sei verificato."
       },
       "NoPermissions":{
          "NoPermissions.Color":16728368,
