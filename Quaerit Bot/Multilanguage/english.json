@@ -76,11 +76,6 @@
            "AlreadyVerified.Title":"<:No:897489299908485170> Already Verified",
            "AlreadyVerified.Description": "You're already verified with our system. Some others helpful commands: \n\n `/reverify` ➤ Change Verified Account.\n `/getrole` ➤ Update you're Discord account roles."
         },
-         "NotRegistered": {
-            "NotRegistered.Color": 16728368,
-            "NotRegistered.Title":"<:No:897489299908485170> Already Verified",
-            "NotRegistered.Description": "You're already verified with our system. Some others helpful commands: \n\n `/reverify` ➤ Change Verified Account.\n `/getrole` ➤ Update you're Discord account roles."
-         },
          "NotVerifiedWithRover": {
             "NotVerifiedWithRover.Color": 7631988,
             "NotVerifiedWithRover.Title": "Verify with Rover first!",
