@@ -14,7 +14,12 @@
           "NoPermissions.Color":16728368,
           "NoPermissions.Title":"<:No:897489299908485170> Non Autorizzato",
           "NoPermissions.Description":"Non hai i permessi necessari per eseguire il comando."
-       }
+       },
+       "PromptCancelled": {
+         "PromptCancelled.Color": 5093956,
+         "PromptCancelled.Title": "Prompt Cancellato.",
+         "PromptCancelled.Description": "Questo prompt è stato cancellato."
+      }
     },
     "utility":{
        "ping":{
@@ -91,11 +96,6 @@
             "ButtonVerificationDone.Label": "Fatto",
             "ButtonVerificationCancel.Label": "Cancella"
          },
-         "PromptCancelled": {
-            "PromptCancelled.Color": 5093956,
-            "PromptCancelled.Title": "Prompt Cancellato.",
-            "PromptCancelled.Description": "Questo prompt è stato cancellato."
-         },
          "Verified": {
             "Verified.Color": 7631988,
             "Verified.Title":"<:Yes:926826294082146324> Sistema Verifica Quaerit • %RBLX_DISPLAYNAME%",
@@ -122,6 +122,34 @@
             "EmbedRoles.Field3": {
                "name": "Ruoli Rimossi"
             }
+         }
+      },
+      "reverify": {
+         "InvalidUserEmbed": {
+            "InvalidUserEmbed.Color": 16728368,
+            "InvalidUserEmbed.Title": "Username Invalido",
+            "InvalidUserEmbed.Description": "Questo username Roblox non esiste o è invalido."
+         },
+         "VerifiedEmbed": {
+            "VerifiedEmbed.Color": 16728368,
+            "VerifiedEmbed.Title": "<:Yes:926826294082146324> Congratulazioni!",
+            "VerifiedEmbed.Description": "Sei stato Verificato correttamente con i nostri sistemi\n Esegui `/getrole` per aggiornare i tuoi ruoli e il tuo username."
+         },
+         "ButtonVerification": {
+            "ButtonVerificationDone.Label": "Fatto",
+            "ButtonVerificationCancel.Label": "Cancella"
+         },
+         "InsertCode": {
+            "InsertCode.Color": 5093956,
+            "InsertCode.Title": "Codice di Verifica",
+            "InsertCode.Description": "Per ri-verificare il tuo profilo di roblox copia il codice qua sotto. Qua troverai un tutorial su mettere il tuo codice sul tuo profilo.\n\n [1] • Vai sulla pagina del tuo profilo [ [Profilo Roblox](https://www.roblox.com/users/%RBLX_ID%/profile) ]\n\n [2] • Clicca l'icona della matita vicino alla descrizione del tuo profilo (About)\n\n [3] • Infine copia ed incolla nella tua descrizione il codice qua sotto:\n ```%CODICE_REVERIFY%```",
+            "InsertCode.Image": "https://cdn.discordapp.com/attachments/785872107119837195/896492300623052830/Senza_titolo-1.png",
+            "InsertCode.Footer": "⤷ Questo prompt scadrà tra 5 minuti"
+         },
+         "EmbedIncorrectCode": {
+            "EmbedIncorrectCode.Color": 16728368,
+            "EmbedIncorrectCode.Title": "<:No:926826294124101732> Codice non trovato!",
+            "EmbedIncorrectCode.Description": "Il codice sul tuo profilo non corrisponde a quello che ti abbiamo fornito. riprova magari controllando di aver **salvato**. [Profilo Roblox](https://www.roblox.com/users/%RBLX_ID%/profile)"
          }
       }
    }
