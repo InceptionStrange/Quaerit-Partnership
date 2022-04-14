@@ -70,12 +70,38 @@
        }
     },
     "verification": {
-      "verify": {
-         "AlreadyVerified": {
-            "AlreadyVerified.Color": 16728368,
-            "AlreadyVerified.Title":"<:No:897489299908485170> Already Verified",
-            "AlreadyVerified.Description": "You're already verified with our system. Some others helpful commands: \n\n `/reverify` ➤ Change Verified Account.\n `/getrole` ➤ Update you're Discord account roles."
+     "verify": {
+        "AlreadyVerified": {
+           "AlreadyVerified.Color": 16728368,
+           "AlreadyVerified.Title":"<:No:897489299908485170> Already Verified",
+           "AlreadyVerified.Description": "You're already verified with our system. Some others helpful commands: \n\n `/reverify` ➤ Change Verified Account.\n `/getrole` ➤ Update you're Discord account roles."
+        },
+         "NotRegistered": {
+            "NotRegistered.Color": 16728368,
+            "NotRegistered.Title":"<:No:897489299908485170> Already Verified",
+            "NotRegistered.Description": "You're already verified with our system. Some others helpful commands: \n\n `/reverify` ➤ Change Verified Account.\n `/getrole` ➤ Update you're Discord account roles."
+         },
+         "NotVerifiedWithRover": {
+            "NotVerifiedWithRover.Color": 7631988,
+            "NotVerifiedWithRover.Title": "Verify with Rover first!",
+            "NotVerifiedWithRover.Description": "You're not verified with [RoVer](https://rover.link/), please verify with it first."
+        },
+        "EmbedVerifiy": {
+           "EmbedVerifiy.Color":5093956,
+           "EmbedVerifiy.Title":"Verification Prompt",
+           "EmbedVerifiy.Description":"Welcome, Quaerit Services use Rover data, before continuing make sure you are verified with the right account on [RoVer Website.](https://rover.link/)\n\nClick `Done` for linking you're account or `Cancel` for cancel this prompt",
+           "EmbedVerifiy.Footer": "⤷ This Prompt will be cancelled in 5 Minutes."
+        },
+         "ButtonVerification": {
+            "ButtonVerificationDone.Label": "Done",
+            "ButtonVerificationCancel.Label": "Cancel"
+         },
+         "PromptCancelled": {
+            "NotRegistered.Color": 7631988,
+            "NotRegistered.Title":"Prompt Cancelled.",
+            "NotRegistered.Description": "This Prompt has been cancelled."
          }
-      }
-   }
- }
+     }
+  }
+}
+
