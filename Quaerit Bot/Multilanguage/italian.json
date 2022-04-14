@@ -101,12 +101,26 @@
             "Verified.Title":"<:Yes:926826294082146324> Sistema Verifica Quaerit • %RBLX_DISPLAYNAME%",
             "Verified.Description": "Il tuo account è stato verificato!\n\nEntra nel nostro gruppo: [Quaerit Services](https://www.roblox.com/groups/11965836/Quaerit-Services#!/about)\n Esegui il comando `/getrole` per aggiornare i tuoi ruoli.",
             "Verified.Field1":{
-               "name": "[+] Nickname Aggiornato",
-               "value": "%RBLX_USERNAME%"
+               "name": "[+] Nickname Aggiornato"
             },
             "Verified.Field2":{
                "name": "[+] Ruoli Aggiunti",
                "value": "Verificato"
+            }
+         }
+      },
+      "update": {
+         "EmbedRoles": {
+            "EmbedRoles.Color": 5093956,
+            "EmbedRoles.Title": "Ruoli Aggiornati",
+            "EmbedRoles.Field1": {
+               "name": "Target Aggiornato"
+            },
+            "EmbedRoles.Field2": {
+               "name": "Ruoli Aggiunti"
+            },
+            "EmbedRoles.Field3": {
+               "name": "Ruoli Rimossi"
             }
          }
       }
