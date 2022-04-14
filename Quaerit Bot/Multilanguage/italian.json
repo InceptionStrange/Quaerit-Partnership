@@ -81,20 +81,33 @@
             "NotVerifiedWithRover.Title": "Verificati con Rover prima!!",
             "NotVerifiedWithRover.Description": "Non sei verificatop con rover, vai su questo sito [RoVer](https://rover.link/) e collega il tuo account discord a Roblox"
          },
-         "EmbedVerifiy": {
-            "EmbedVerifiy.Color": 5093956,
-            "EmbedVerifiy.Title": "Verificati",
-            "EmbedVerifiy.Description": "Benvenuto, Quaerit Services usa i sistemi di rover, prima di continuare e accertarsi che tu sia verificato con l'account corretto vai su [RoVer Website.](https://rover.link/)\n\n Clicca `Fatto` per linkare il tuo account o `Cancella` per cancellare il prompt.",
-            "EmbedVerifiy.Footer": "⤷ Questo prompt scadrà tra 5 minuti"
+         "EmbedVerify": {
+            "EmbedVerify.Color": 5093956,
+            "EmbedVerify.Title": "Verificati",
+            "EmbedVerify.Description": "Benvenuto, Quaerit Services usa i sistemi di rover, prima di continuare e accertarsi che tu sia verificato con l'account corretto vai su [RoVer Website.](https://rover.link/)\n\n Clicca `Fatto` per linkare il tuo account o `Cancella` per cancellare il prompt.",
+            "EmbedVerify.Footer": "⤷ Questo prompt scadrà tra 5 minuti"
          },
          "ButtonVerification": {
             "ButtonVerificationDone.Label": "Fatto",
             "ButtonVerificationCancel.Label": "Cancella"
          },
          "PromptCancelled": {
-            "NotRegistered.Color": 7631988,
-            "NotRegistered.Title": "Prompt Cancellato.",
-            "NotRegistered.Description": "Questo prompt è stato cancellato."
+            "PromptCancelled.Color": 5093956,
+            "PromptCancelled.Title": "Prompt Cancellato.",
+            "PromptCancelled.Description": "Questo prompt è stato cancellato."
+         },
+         "Verified": {
+            "Verified.Color": 7631988,
+            "Verified.Title":"<:Yes:926826294082146324> Sistema Verifica Quaerit • %RBLX_DISPLAYNAME%",
+            "Verified.Description": "Il tuo account è stato verificato!\n\nEntra nel nostro gruppo: [Quaerit Services](https://www.roblox.com/groups/11965836/Quaerit-Services#!/about)\n Esegui il comando `/getrole` per aggiornare i tuoi ruoli.",
+            "Verified.Field1":{
+               "name": "[+] Nickname Aggiornato",
+               "value": "%RBLX_USERNAME%"
+            },
+            "Verified.Field2":{
+               "name": "[+] Ruoli Aggiunti",
+               "value": "Verificato"
+            }
          }
       }
    }
