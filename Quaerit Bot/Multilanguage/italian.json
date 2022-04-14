@@ -1,80 +1,100 @@
 {
-   "GeneralErrors":{
-      "NotVerifiedTarget":{
-         "NotVerifiedTarget.Color":16728368,
-         "NotVerifiedTarget.Title":"<:No:897489299908485170> Non Verificato.",
-         "NotVerifiedTarget.Description":"Tu o il target non siete verificati."
-      },
-      "NotVerified":{
-         "NotVerified.Color":16728368,
-         "NotVerified.Title":"<:No:897489299908485170> Non Verificato.",
-         "NotVerified.Description":"Non sei verificato."
-      },
-      "NoPermissions":{
-         "NoPermissions.Color":16728368,
-         "NoPermissions.Title":"<:No:897489299908485170> Non Autorizzato",
-         "NoPermissions.Description":"Non hai i permessi necessari per eseguire il comando."
-      }
-   },
-   "utility":{
-      "ping":{
-         "ping.Color":7631988,
-         "ping.Title":"Pong!",
-         "ping.Description":"Ping Medio: __%PING% ms__.\nLatenza API: __%LATENCY% ms__."
-      },
-      "info":{
-         "info.Title":"Quaerit • %USER_RBLX%",
-         "info.Field1":{
-            "name":"Statische Quaerit Account",
-            "value":"\n> Commissioni Totali: **%COMMISSION_NUMBER%**\n> Strike: **%STRIKE%**\n> Stato Commissione: %COMMISSION_STATUS%\n> Privilegi Bot: %BOT_PERMISSIONS%"
-         },
-         "info.Field2":{
-            "name":"Statistiche Roblox Account",
-            "value":"\n> DisplayName: %RBLX_DISPLAYNAME%\n> Età Account: %RBLX_AGE%\n> Amici: %RBLX_FRIEND%"
-         },
-         "info.Field3":{
-            "name":"Traguardi",
-            "value":"\n> Sbloccati: %ACHIEVEMENTS_LIST%"
-         },
-         "info.Field4":{
-            "name":"Coupon Correnti",
-            "value":"\n> Disponibili: %COUPON_LIST%"
-         }
-      },
-      "feedback":{
-         "modalbox":{
-            "modalbox.Title":"Feedback",
-            "Input1":{
-               "Input1.Label":"Prodotto",
-               "Input1.PlaceHolder":"Che cosa hai ordinato?"
-            },
-            "Input2":{
-               "Input2.Label":"Commento",
-               "Input2.PlaceHolder":"Scrivi un breve commento su quello che hai comprato."
-            },
-            "Input3":{
-               "Input3.Label":"Stelle",
-               "Input3.PlaceHolder":"Inserisci un numero da 1 a 5"
-            }
-         },
-         "StarInput":{
-            "StarInput.Color":16728368,
-            "StarInput.Title":"<:No:897489299908485170> Input Invalido",
-            "StarInput.Description":"Devi inserire un numero da 1 a 5."
-         },
-         "FeedbackSuccess":{
-            "FeedbackSuccess.Color":5093956,
-            "FeedbackSuccess.Title":"<:Yes:895295399814914109> Successo",
-            "FeedbackSuccess.Description":"Grazie mille per aver valutato uno dei nostri prodotti, il tuo feedback sarà pubblicato presto in: <#891342138497966110>."
-         }
-      }
-   },
-   "verification": {
+    "GeneralErrors":{
+       "NotVerifiedTarget":{
+          "NotVerifiedTarget.Color":16728368,
+          "NotVerifiedTarget.Title":"<:No:897489299908485170> Non Verificato.",
+          "NotVerifiedTarget.Description":"Tu o il target non siete verificati."
+       },
+       "NotVerified":{
+          "NotVerified.Color":16728368,
+          "NotVerified.Title":"<:No:897489299908485170> Non Verificato.",
+          "NotVerified.Description":"Non sei verificato."
+       },
+       "NoPermissions":{
+          "NoPermissions.Color":16728368,
+          "NoPermissions.Title":"<:No:897489299908485170> Non Autorizzato",
+          "NoPermissions.Description":"Non hai i permessi necessari per eseguire il comando."
+       }
+    },
+    "utility":{
+       "ping":{
+          "ping.Color":7631988,
+          "ping.Title":"Pong!",
+          "ping.Description":"Ping Medio: __%PING% ms__.\nLatenza API: __%LATENCY% ms__."
+       },
+       "info":{
+          "info.Title":"Quaerit • %USER_RBLX%",
+          "info.Field1":{
+             "name":"Statische Quaerit Account",
+             "value":"\n> Commissioni Totali: **%COMMISSION_NUMBER%**\n> Strike: **%STRIKE%**\n> Stato Commissione: %COMMISSION_STATUS%\n> Privilegi Bot: %BOT_PERMISSIONS%"
+          },
+          "info.Field2":{
+             "name":"Statistiche Roblox Account",
+             "value":"\n> DisplayName: %RBLX_DISPLAYNAME%\n> Età Account: %RBLX_AGE%\n> Amici: %RBLX_FRIEND%"
+          },
+          "info.Field3":{
+             "name":"Traguardi",
+             "value":"\n> Sbloccati: %ACHIEVEMENTS_LIST%"
+          },
+          "info.Field4":{
+             "name":"Coupon Correnti",
+             "value":"\n> Disponibili: %COUPON_LIST%"
+          }
+       },
+       "feedback":{
+          "modalbox":{
+             "modalbox.Title":"Feedback",
+             "Input1":{
+                "Input1.Label":"Prodotto",
+                "Input1.PlaceHolder":"Che cosa hai ordinato?"
+             },
+             "Input2":{
+                "Input2.Label":"Commento",
+                "Input2.PlaceHolder":"Scrivi un breve commento su quello che hai comprato."
+             },
+             "Input3":{
+                "Input3.Label":"Stelle",
+                "Input3.PlaceHolder":"Inserisci un numero da 1 a 5"
+             }
+          },
+          "StarInput":{
+             "StarInput.Color":16728368,
+             "StarInput.Title":"<:No:897489299908485170> Input Invalido",
+             "StarInput.Description":"Devi inserire un numero da 1 a 5."
+          },
+          "FeedbackSuccess":{
+             "FeedbackSuccess.Color":5093956,
+             "FeedbackSuccess.Title":"<:Yes:895295399814914109> Successo",
+             "FeedbackSuccess.Description":"Grazie mille per aver valutato uno dei nostri prodotti, il tuo feedback sarà pubblicato presto in: <#891342138497966110>."
+          }
+       }
+    },
+    "verification": {
       "verify": {
          "AlreadyVerified": {
             "AlreadyVerified.Color": 16728368,
-            "AlreadyVerified.Title":"<:No:897489299908485170> Già verificato",
+            "AlreadyVerified.Title": "<:No:897489299908485170> Già verificato",
             "AlreadyVerified.Description": "Sei già verificato con il nostro sistema. Alcuni altri comandi utili: \n\n `/reverify` ➤ Cambia account verificato.\n `/getrole` ➤ Aggiorna i ruoli dell'account Discord."
+         },
+         "NotVerifiedWithRover": {
+            "NotVerifiedWithRover.Color": 7631988,
+            "NotVerifiedWithRover.Title": "Verificati con Rover prima!!",
+            "NotVerifiedWithRover.Description": "Non sei verificatop con rover, vai su questo sito [RoVer](https://rover.link/) e collega il tuo account discord a Roblox"
+         },
+         "EmbedVerifiy": {
+            "EmbedVerifiy.Color": 5093956,
+            "EmbedVerifiy.Title": "Verificati",
+            "EmbedVerifiy.Description": "Benvenuto, Quaerit Services usa i sistemi di rover, prima di continuare e accertarsi che tu sia verificato con l'account corretto vai su [RoVer Website.](https://rover.link/)\n\n Clicca `Fatto` per linkare il tuo account o `Cancella` per cancellare il prompt.",
+            "EmbedVerifiy.Footer": "⤷ Questo prompt scadrà tra 5 minuti"
+         },
+         "ButtonVerification": {
+            "ButtonVerificationDone.Label": "Fatto",
+            "ButtonVerificationCancel.Label": "Cancella"
+         },
+         "PromptCancelled": {
+            "NotRegistered.Color": 7631988,
+            "NotRegistered.Title": "Prompt Cancellato.",
+            "NotRegistered.Description": "Questo prompt è stato cancellato."
          }
       }
    }
