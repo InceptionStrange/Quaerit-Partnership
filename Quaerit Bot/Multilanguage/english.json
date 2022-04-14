@@ -95,6 +95,19 @@
             "PromptCancelled.Color": 7631988,
             "PromptCancelled.Title":"Prompt Cancelled.",
             "PromptCancelled.Description": "This Prompt has been cancelled."
+         },
+         "Verified": {
+            "Verified.Color": 7631988,
+            "Verified.Title":"<:Yes:926826294082146324> Quaerit Verification System • %RBLX_DISPLAYNAME%",
+            "Verified.Description": "Your account has been verified!\n\nCheck out our roblox group: [Quaerit Services](https://www.roblox.com/groups/11965836/Quaerit-Services#!/about)\nRun `/getrole` to update your discord roles.",
+            "Verified.Field1":{
+               "name": "[+] Nickname Updated",
+               "value": "%RBLX_USERNAME%"
+            },
+            "Verified.Field2":{
+               "name": "[+] Roles Added",
+               "value": "Verified"
+            }
          }
      }
   }
