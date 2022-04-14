@@ -14,6 +14,11 @@
          "NoPermissions.Color": 16728368,
          "NoPermissions.Title": "<:No:897489299908485170> You don't have Permissions",
          "NoPermissions.Description": "You do not have the necessary permissions to execute the command."
+      },
+      "PromptCancelled": {
+         "PromptCancelled.Color": 7631988,
+         "PromptCancelled.Title": "Prompt Cancelled.",
+         "PromptCancelled.Description": "This Prompt has been cancelled."
       }
    },
    "utility": {
@@ -91,11 +96,6 @@
             "ButtonVerificationDone.Label": "Done",
             "ButtonVerificationCancel.Label": "Cancel"
          },
-         "PromptCancelled": {
-            "PromptCancelled.Color": 7631988,
-            "PromptCancelled.Title": "Prompt Cancelled.",
-            "PromptCancelled.Description": "This Prompt has been cancelled."
-         },
          "Verified": {
             "Verified.Color": 7631988,
             "Verified.Title": "<:Yes:926826294082146324> Quaerit Verification System • %RBLX_DISPLAYNAME%",
@@ -122,6 +122,34 @@
             "EmbedRoles.Field3": {
                "name": "Roles Removed"
             }
+         }
+      },
+      "reverify": {
+         "InvalidUserEmbed": {
+            "InvalidUserEmbed.Color": 16728368,
+            "InvalidUserEmbed.Title": "Invalid Username",
+            "InvalidUserEmbed.Description": "Roblox username is invalid."
+         },
+         "VerifiedEmbed": {
+            "VerifiedEmbed.Color": 16728368,
+            "VerifiedEmbed.Title": "<:Yes:926826294082146324> Congratulations!",
+            "VerifiedEmbed.Description": "You have been successfully verified with our systems\nRun `/getrole` for update you're roles and username."
+         },
+         "ButtonVerification": {
+            "ButtonVerificationDone.Label": "Done",
+            "ButtonVerificationCancel.Label": "Cancel"
+         },
+         "InsertCode": {
+            "InsertCode.Color": 5093956,
+            "InsertCode.Title": "Verification code",
+            "InsertCode.Description": "To continue verifying your roblox profile, enter the code below. Below you will find a tutorial on how to put the code on your profile\n\n[1] • Go to your profile page [ [Roblox Profile](https://www.roblox.com/users/%RBLX_ID%/profile) ]\n\n[2] • Click on the Pencil symbol next to your profile description (About) or click here to go to the page\n\n[3] Then copy and paste, then save the code in your description\n ```%CODICE_REVERIFY%```",
+            "InsertCode.Image": "https://cdn.discordapp.com/attachments/785872107119837195/896492300623052830/Senza_titolo-1.png",
+            "InsertCode.Footer": "↳This prompt will be cleared in 5 minutes"
+         },
+         "EmbedIncorrectCode": {
+            "EmbedIncorrectCode.Color": 16728368,
+            "EmbedIncorrectCode.Title": "<:No:926826294124101732> Code not found!",
+            "EmbedIncorrectCode.Description": "The code does not match the one provided, check if you have **saved** the description and try again. [Roblox Profile](https://www.roblox.com/users/%RBLX_ID%/profile)"
          }
       }
    }
