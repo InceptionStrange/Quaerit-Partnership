@@ -116,7 +116,7 @@
             "InvalidUserEmbed.Description":"Roblox username is invalid."
          },
          "VerifiedEmbed":{
-            "VerifiedEmbed.Color":16728368,
+            "VerifiedEmbed.Color": 5093956,
             "VerifiedEmbed.Title":"<:Yes:926826294082146324> Congratulations!",
             "VerifiedEmbed.Description":"You have been successfully verified with our systems\nRun `/getrole` for update you're roles and username."
          },
