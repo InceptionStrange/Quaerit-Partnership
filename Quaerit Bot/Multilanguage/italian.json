@@ -16,7 +16,7 @@
          "NoPermissions.Description":"Non hai i permessi necessari per eseguire il comando."
       },
       "PromptCancelled":{
-         "PromptCancelled.Color":5093956,
+         "PromptCancelled.Color":7631988,
          "PromptCancelled.Title":"Prompt Cancellato.",
          "PromptCancelled.Description":"Questo prompt è stato cancellato."
       }
