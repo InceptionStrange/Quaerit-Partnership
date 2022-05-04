@@ -127,7 +127,7 @@
          "InsertCode":{
             "InsertCode.Color":5093956,
             "InsertCode.Title":"Codice di Verifica",
-            "InsertCode.Description":"Per ri-verificare il tuo profilo di roblox copia il codice qua sotto. Qua troverai un tutorial su mettere il tuo codice sul tuo profilo.\n\n [1] • Vai sulla pagina del tuo profilo [ [Profilo Roblox](https://www.roblox.com/users/%RBLX_ID%/profile) ]\n\n [2] • Clicca l'icona della matita vicino alla descrizione del tuo profilo (About)\n\n [3] • Infine copia ed incolla nella tua descrizione il codice qua sotto:\n ```%CODICE_REVERIFY%```",
+            "InsertCode.Description":"Per ri-verificare il tuo profilo di roblox copia il codice qua sotto. Qua troverai un tutorial su come mettere il tuo codice sul tuo profilo.\n\n [1] • Vai sulla pagina del tuo profilo [Profilo Roblox](https://www.roblox.com/users/%RBLX_ID%/profile)\n\n [2] • Clicca l'icona della matita vicino alla descrizione del tuo profilo (About)\n\n [3] • Infine copia ed incolla nella tua descrizione il codice qua sotto:\n ```%CODICE_REVERIFY%```",
             "InsertCode.Image":"https://cdn.discordapp.com/attachments/785872107119837195/896492300623052830/Senza_titolo-1.png",
             "InsertCode.Footer":"⤷ Questo prompt scadrà tra 5 minuti"
          },
