@@ -18,6 +18,10 @@
        "ResponseFalse": {
         "ResponseFalse.Title": "QP • Not Verified",
         "ResponseFalse.Description": "Sorry you're not verified with our system, go to our [Main Server](https://discord.gg/3m5m6TaC6g) and run `/verify`"
+      },
+       "ResponseSuccess": {
+        "ResponseSuccess.Title": "QP • Verification System",
+        "ResponseSuccess.Description": "*You're Roles and Nickname have been updated!*\n➢  if you wish to update you're nickname go to our [Main Server](https://discord.gg/3m5m6TaC6g) and run `/reverify`\n➢  Run this command again if you lost the verified role or you recently changed your username."
       }
     }
   }
