@@ -10,7 +10,7 @@
       }
    },
    "verification": {
-    "verify": {
+    "updateroles": {
       "WorkingEmbed": {
         "WorkingEmbed.Title": "QP • Sistema Verifica",
         "WorkingEmbed.Description": "Attendi mentre controlliamo se sei verificato con il sistema di verifica dei servizi Quaerit..."
