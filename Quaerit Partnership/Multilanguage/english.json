@@ -17,7 +17,7 @@
       },
        "ResponseFalse": {
         "WorkingEmbed.Title": "QP • Not Verified",
-        "WorkingEmbed.Description": "Sorry you're not verified with our system, go to our [Main Server](https://discord.gg/3m5m6TaC6g) and `/verify`"
+        "WorkingEmbed.Description": "Sorry you're not verified with our system, go to our [Main Server](https://discord.gg/3m5m6TaC6g) and run `/verify`"
       }
     }
   }
