@@ -18,6 +18,10 @@
         "ResponseFalse": {
         "ResponseFalse.Title": "QP • Non Verificato",
         "ResponseFalse.Description": "Non sei verificato con il nostro sistema, vai al nostro [Server Principale](https://discord.gg/3m5m6TaC6g) ed esegui `/verify` o `/verifica`"
+      },
+       "ResponseSuccess": {
+        "ResponseSuccess.Title": "QP • Verification System",
+        "ResponseSuccess.Description": "*I tuoi ruoli e nickname sono stati aggiornati!*\n➢ Se desideri aggiornare il tuo nickname vai al nostro [Server Principale](https://discord.gg/3m5m6TaC6g) ed esegui `/reverify`\n ➢ Esegui di nuovo questo comando se hai perso il ruolo verificato o hai cambiato di recente il tuo nome utente su roblox."
       }
     }
   }
