@@ -16,8 +16,8 @@
         "WorkingEmbed.Description": "*Please wait while we are checking if you are verified with Quaerit Services Verification System...*"
       },
        "ResponseFalse": {
-        "WorkingEmbed.Title": "QP • Not Verified",
-        "WorkingEmbed.Description": "Sorry you're not verified with our system, go to our [Main Server](https://discord.gg/3m5m6TaC6g) and run `/verify`"
+        "ResponseFalse.Title": "QP • Not Verified",
+        "ResponseFalse.Description": "Sorry you're not verified with our system, go to our [Main Server](https://discord.gg/3m5m6TaC6g) and run `/verify`"
       }
     }
   }
