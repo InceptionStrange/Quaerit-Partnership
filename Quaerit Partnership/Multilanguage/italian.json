@@ -14,6 +14,10 @@
       "WorkingEmbed": {
         "WorkingEmbed.Title": "QP • Sistema Verifica",
         "WorkingEmbed.Description": "Attendi mentre controlliamo se sei verificato con il sistema di verifica dei servizi Quaerit..."
+      },
+        "ResponseFalse": {
+        "ResponseFalse.Title": "QP • Non Verificato",
+        "ResponseFalse.Description": "Non sei verificato con il nostro sistema, vai al nostro [Server Principale](https://discord.gg/3m5m6TaC6g) ed esegui `/verify` o `/verifica`"
       }
     }
   }
