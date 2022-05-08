@@ -1,7 +1,7 @@
 {
    "utility":{
       "ping":{
-         "ping.Title":":ping_pong: Pong!",
+         "ping.Title":"Pong!",
          "ping.Description":"Ping Medio: __%PING% ms__.\nLatenza API: __%LATENCY% ms__."
       },
       "NotActivePartnership":{
