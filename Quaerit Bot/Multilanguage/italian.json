@@ -137,12 +137,27 @@
             "EmbedIncorrectCode.Description":"Il codice sul tuo profilo non corrisponde a quello che ti abbiamo fornito. riprova magari controllando di aver **salvato**. [Profilo Roblox](https://www.roblox.com/users/%RBLX_ID%/profile)"
          }
       },
+       "getrole":{
+         "EmbedRoles":{
+            "EmbedRoles.Color":5093956,
+            "EmbedRoles.Title":"Ruoli Aggiornati",
+            "EmbedRoles.Field1":{
+               "name":"Nickname"
+            },
+            "EmbedRoles.Field2":{
+               "name":"Ruoli Aggiunti"
+            },
+            "EmbedRoles.Field3":{
+               "name":"Ruoli Rimossi"
+            }
+         }
+      },
       "update":{
          "EmbedRoles":{
             "EmbedRoles.Color":5093956,
             "EmbedRoles.Title":"Ruoli Aggiornati",
             "EmbedRoles.Field1":{
-               "name":"Target Aggiornato"
+               "name":"Nickname"
             },
             "EmbedRoles.Field2":{
                "name":"Ruoli Aggiunti"
