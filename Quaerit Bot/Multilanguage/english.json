@@ -137,6 +137,21 @@
             "EmbedIncorrectCode.Description":"The code does not match the one provided, check if you have **saved** the description and try again. [Roblox Profile](https://www.roblox.com/users/%RBLX_ID%/profile)"
          }
       },
+       "getrole":{
+         "EmbedRoles":{
+            "EmbedRoles.Color":5093956,
+            "EmbedRoles.Title":"Roles Updated",
+            "EmbedRoles.Field1":{
+               "name":"Roles Updated"
+            },
+            "EmbedRoles.Field2":{
+               "name":"Roles Added"
+            },
+            "EmbedRoles.Field3":{
+               "name":"Roles Removed"
+            }
+         }
+      },
       "update":{
          "EmbedRoles":{
             "EmbedRoles.Color":5093956,
@@ -145,7 +160,7 @@
                "name":"Target Updated"
             },
             "EmbedRoles.Field2":{
-               "name":"Added Roles"
+               "name":"Roles Added"
             },
             "EmbedRoles.Field3":{
                "name":"Roles Removed"
