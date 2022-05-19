@@ -142,7 +142,7 @@
             "EmbedRoles.Color":5093956,
             "EmbedRoles.Title":"Roles Updated",
             "EmbedRoles.Field1":{
-               "name":"Roles Updated"
+               "name":"Nickname"
             },
             "EmbedRoles.Field2":{
                "name":"Roles Added"
@@ -157,7 +157,7 @@
             "EmbedRoles.Color":5093956,
             "EmbedRoles.Title":"Roles Updated",
             "EmbedRoles.Field1":{
-               "name":"Target Updated"
+               "name":"Nickname"
             },
             "EmbedRoles.Field2":{
                "name":"Roles Added"
