@@ -151,21 +151,6 @@
                "name":"Roles Removed"
             }
          }
-      },
-      "update":{
-         "EmbedRoles":{
-            "EmbedRoles.Color":5093956,
-            "EmbedRoles.Title":"Roles Updated",
-            "EmbedRoles.Field1":{
-               "name":"Nickname"
-            },
-            "EmbedRoles.Field2":{
-               "name":"Roles Added"
-            },
-            "EmbedRoles.Field3":{
-               "name":"Roles Removed"
-            }
-         }
       }
    }
 }
