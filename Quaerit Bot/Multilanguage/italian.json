@@ -152,18 +152,16 @@
             }
          },
          "codes":{
-            "feedback":{
-               "redeem":{
-                  "CodeNotFound":{
-                     "CodeNotFound.Color":16728368,
-                     "CodeNotFound.Title":"<:No:897489299908485170> Codice non trovato",
-                     "CodeNotFound.Description":"Il codice che stai tentando di riscattare non esiste o è già stato riscattato."
-                  },
-                  "CodeReedeem":{
-                     "CodeReedeem.Color":5093956,
-                     "CodeReedeem.Title":"<:Yes:895295399814914109> Successo ",
-                     "CodeReedeem.Description":"Il codice %CODE% è stato riscattato e aggiunto al tuo account."
-                  }
+            "redeem":{
+               "CodeNotFound":{
+                  "CodeNotFound.Color":16728368,
+                  "CodeNotFound.Title":"<:No:897489299908485170> Codice non trovato",
+                  "CodeNotFound.Description":"Il codice che stai tentando di riscattare non esiste o è già stato riscattato."
+               },
+               "CodeReedeem":{
+                  "CodeReedeem.Color":5093956,
+                  "CodeReedeem.Title":"<:Yes:895295399814914109> Successo ",
+                  "CodeReedeem.Description":"Il codice %CODE% è stato riscattato e aggiunto al tuo account."
                }
             }
          }
