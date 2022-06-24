@@ -83,7 +83,7 @@
          },
          "NotVerifiedWithRover":{
             "NotVerifiedWithRover.Color":7631988,
-            "NotVerifiedWithRover.Title":"Verificati con Rover prima!!",
+            "NotVerifiedWithRover.Title":"Verificati con Rover prima!",
             "NotVerifiedWithRover.Description":"Non sei verificatop con rover, vai su questo sito [RoVer](https://rover.link/) e collega il tuo account discord a Roblox"
          },
          "EmbedVerify":{
@@ -149,6 +149,22 @@
             },
             "EmbedRoles.Field3":{
                "name":"Ruoli Rimossi"
+            }
+         },
+         "codes":{
+            "feedback":{
+               "redeem":{
+                  "CodeNotFound":{
+                     "CodeNotFound.Color":16728368,
+                     "CodeNotFound.Title":"<:No:897489299908485170> Codice non trovato",
+                     "CodeNotFound.Description":"Il codice che stai tentando di riscattare non esiste o è già stato riscattato."
+                  },
+                  "CodeReedeem":{
+                     "CodeReedeem.Color":5093956,
+                     "CodeReedeem.Title":"<:Yes:895295399814914109> Successo ",
+                     "CodeReedeem.Description":"Il codice %CODE% è stato riscattato e aggiunto al tuo account."
+                  }
+               }
             }
          }
       }
