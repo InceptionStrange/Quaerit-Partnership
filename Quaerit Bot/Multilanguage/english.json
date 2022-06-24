@@ -1,172 +1,170 @@
 {
-    "GeneralErrors": {
-        "NotVerifiedTarget": {
-            "NotVerifiedTarget.Color": 16728368,
-            "NotVerifiedTarget.Title": "<:No:897489299908485170> Not Verified",
-            "NotVerifiedTarget.Description": "You or the Target is not verified with our system."
-        },
-        "NotVerified": {
-            "NotVerified.Color": 16728368,
-            "NotVerified.Title": "<:No:897489299908485170> Not Verified.",
-            "NotVerified.Description": "You're not verified with our system."
-        },
-        "NoPermissions": {
-            "NoPermissions.Color": 16728368,
-            "NoPermissions.Title": "<:No:897489299908485170> You don't have Permissions",
-            "NoPermissions.Description": "You do not have the necessary permissions to execute the command."
-        },
-        "PromptCancelled": {
-            "PromptCancelled.Color": 7631988,
-            "PromptCancelled.Title": "Prompt Cancelled.",
-            "PromptCancelled.Description": "This Prompt has been cancelled."
-        }
-    },
-    "utility": {
-        "ping": {
-            "ping.Color": 7631988,
-            "ping.Title": "Pong!",
-            "ping.Description": "Average Ping: __%PING% ms__.\nLatency API: __%LATENCY% ms__."
-        },
-        "info": {
-            "info.Title": "Quaerit • %USER_RBLX%",
-            "info.Field1": {
-                "name": "Quaerit Account Stats",
-                "value": "\n> Total Commissions: **%COMMISSION_NUMBER%**\n> Strike: **%STRIKE%**\n> Current Commission Status: %COMMISSION_STATUS%\n> Bot privileges: %BOT_PERMISSIONS%"
+   "GeneralErrors":{
+      "NotVerifiedTarget":{
+         "NotVerifiedTarget.Color":16728368,
+         "NotVerifiedTarget.Title":"<:No:897489299908485170> Not Verified",
+         "NotVerifiedTarget.Description":"You or the Target is not verified with our system."
+      },
+      "NotVerified":{
+         "NotVerified.Color":16728368,
+         "NotVerified.Title":"<:No:897489299908485170> Not Verified.",
+         "NotVerified.Description":"You're not verified with our system."
+      },
+      "NoPermissions":{
+         "NoPermissions.Color":16728368,
+         "NoPermissions.Title":"<:No:897489299908485170> You don't have Permissions",
+         "NoPermissions.Description":"You do not have the necessary permissions to execute the command."
+      },
+      "PromptCancelled":{
+         "PromptCancelled.Color":7631988,
+         "PromptCancelled.Title":"Prompt Cancelled.",
+         "PromptCancelled.Description":"This Prompt has been cancelled."
+      }
+   },
+   "utility":{
+      "ping":{
+         "ping.Color":7631988,
+         "ping.Title":"Pong!",
+         "ping.Description":"Average Ping: __%PING% ms__.\nLatency API: __%LATENCY% ms__."
+      },
+      "info":{
+         "info.Title":"Quaerit • %USER_RBLX%",
+         "info.Field1":{
+            "name":"Quaerit Account Stats",
+            "value":"\n> Total Commissions: **%COMMISSION_NUMBER%**\n> Strike: **%STRIKE%**\n> Current Commission Status: %COMMISSION_STATUS%\n> Bot privileges: %BOT_PERMISSIONS%"
+         },
+         "info.Field2":{
+            "name":"Roblox Account Stats",
+            "value":"\n> DisplayName: %RBLX_DISPLAYNAME%\n> Account age: %RBLX_AGE%\n> Friends: %RBLX_FRIEND%"
+         },
+         "info.Field3":{
+            "name":"Achievements",
+            "value":"\n> Unlocked: %ACHIEVEMENTS_LIST%"
+         },
+         "info.Field4":{
+            "name":"Current Coupon",
+            "value":"\n> Available: %COUPON_LIST%"
+         }
+      },
+      "feedback":{
+         "modalbox":{
+            "modalbox.Title":"Feedback Forms",
+            "Input1":{
+               "Input1.Label":"Product",
+               "Input1.PlaceHolder":"What Did you order?"
             },
-            "info.Field2": {
-                "name": "Roblox Account Stats",
-                "value": "\n> DisplayName: %RBLX_DISPLAYNAME%\n> Account age: %RBLX_AGE%\n> Friends: %RBLX_FRIEND%"
+            "Input2":{
+               "Input2.Label":"comment",
+               "Input2.PlaceHolder":"Write a short comment on the product you bought."
             },
-            "info.Field3": {
-                "name": "Achievements",
-                "value": "\n> Unlocked: %ACHIEVEMENTS_LIST%"
-            },
-            "info.Field4": {
-                "name": "Current Coupon",
-                "value": "\n> Available: %COUPON_LIST%"
+            "Input3":{
+               "Input3.Label":"star",
+               "Input3.PlaceHolder":"Insert a Number between 1 and 5"
             }
-        },
-        "feedback": {
-            "modalbox": {
-                "modalbox.Title": "Feedback Forms",
-                "Input1": {
-                    "Input1.Label": "Product",
-                    "Input1.PlaceHolder": "What Did you order?"
-                },
-                "Input2": {
-                    "Input2.Label": "comment",
-                    "Input2.PlaceHolder": "Write a short comment on the product you bought."
-                },
-                "Input3": {
-                    "Input3.Label": "star",
-                    "Input3.PlaceHolder": "Insert a Number between 1 and 5"
-                }
+         },
+         "StarInput":{
+            "StarInput.Color":16728368,
+            "StarInput.Title":"<:No:897489299908485170> Invalid Input",
+            "StarInput.Description":"You Must insert a number between 1 and 5."
+         },
+         "FeedbackSuccess":{
+            "FeedbackSuccess.Color":5093956,
+            "FeedbackSuccess.Title":"<:Yes:895295399814914109> Success",
+            "FeedbackSuccess.Description":"Thank you very much for rating one of our products, you're feedback will be posted soon in: <#891342138497966110>."
+         }
+      }
+   },
+   "verification":{
+      "verify":{
+         "AlreadyVerified":{
+            "AlreadyVerified.Color":16728368,
+            "AlreadyVerified.Title":"<:No:897489299908485170> Already Verified",
+            "AlreadyVerified.Description":"You're already verified with our system. Some others helpful commands: \n\n `/reverify` ➤ Change Verified Account.\n `/getrole` ➤ Update you're Discord account roles."
+         },
+         "NotVerifiedWithRover":{
+            "NotVerifiedWithRover.Color":7631988,
+            "NotVerifiedWithRover.Title":"Verify with Rover first!",
+            "NotVerifiedWithRover.Description":"You're not verified with [RoVer](https://rover.link/), please verify with it first."
+         },
+         "EmbedVerify":{
+            "EmbedVerify.Color":5093956,
+            "EmbedVerify.Title":"Verification Prompt",
+            "EmbedVerify.Description":"Welcome, Quaerit Services use Rover data, before continuing make sure you are verified with the right account on [RoVer Website.](https://rover.link/)\n\nClick `Done` for linking you're account or `Cancel` for cancel this prompt",
+            "EmbedVerify.Footer":"⤷ This Prompt will be cancelled in 5 Minutes."
+         },
+         "ButtonVerification":{
+            "ButtonVerificationDone.Label":"Done",
+            "ButtonVerificationCancel.Label":"Cancel"
+         },
+         "Verified":{
+            "Verified.Color":7631988,
+            "Verified.Title":"<:Yes:926826294082146324> Quaerit Verification System • %RBLX_DISPLAYNAME%",
+            "Verified.Description":"Your account has been verified!\n\nCheck out our roblox group: [Quaerit Services](https://www.roblox.com/groups/11965836/Quaerit-Services#!/about)\nRun `/getrole` to update your discord roles.",
+            "Verified.Field1":{
+               "name":"[+] Nickname Updated"
             },
-            "StarInput": {
-                "StarInput.Color": 16728368,
-                "StarInput.Title": "<:No:897489299908485170> Invalid Input",
-                "StarInput.Description": "You Must insert a number between 1 and 5."
-            },
-            "FeedbackSuccess": {
-                "FeedbackSuccess.Color": 5093956,
-                "FeedbackSuccess.Title": "<:Yes:895295399814914109> Success",
-                "FeedbackSuccess.Description": "Thank you very much for rating one of our products, you're feedback will be posted soon in: <#891342138497966110>."
+            "Verified.Field2":{
+               "name":"[+] Roles Added",
+               "value":"Verified"
             }
-        }
-    },
-    "verification": {
-        "verify": {
-            "AlreadyVerified": {
-                "AlreadyVerified.Color": 16728368,
-                "AlreadyVerified.Title": "<:No:897489299908485170> Already Verified",
-                "AlreadyVerified.Description": "You're already verified with our system. Some others helpful commands: \n\n `/reverify` ➤ Change Verified Account.\n `/getrole` ➤ Update you're Discord account roles."
+         }
+      },
+      "reverify":{
+         "InvalidUserEmbed":{
+            "InvalidUserEmbed.Color":16728368,
+            "InvalidUserEmbed.Title":"Invalid Username",
+            "InvalidUserEmbed.Description":"Roblox username is invalid."
+         },
+         "VerifiedEmbed":{
+            "VerifiedEmbed.Color":5093956,
+            "VerifiedEmbed.Title":"<:Yes:926826294082146324> Congratulations!",
+            "VerifiedEmbed.Description":"You have been successfully verified with our systems\nRun `/getrole` for update you're roles and username."
+         },
+         "ButtonVerification":{
+            "ButtonVerificationDone.Label":"Done",
+            "ButtonVerificationCancel.Label":"Cancel"
+         },
+         "InsertCode":{
+            "InsertCode.Color":5093956,
+            "InsertCode.Title":"Verification code",
+            "InsertCode.Description":"To continue verifying your roblox profile, enter the code below. Below you will find a tutorial on how to put the code on your profile\n\n[1] • Go to your profile page [ [Roblox Profile](https://www.roblox.com/users/%RBLX_ID%/profile) ]\n\n[2] • Click on the Pencil symbol next to your profile description (About) or click here to go to the page\n\n[3] Then copy and paste, then save the code in your description\n ```%CODICE_REVERIFY%```",
+            "InsertCode.Image":"https://cdn.discordapp.com/attachments/785872107119837195/896492300623052830/Senza_titolo-1.png",
+            "InsertCode.Footer":"↳This prompt will be cleared in 5 minutes"
+         },
+         "EmbedIncorrectCode":{
+            "EmbedIncorrectCode.Color":16728368,
+            "EmbedIncorrectCode.Title":"<:No:926826294124101732> Code not found!",
+            "EmbedIncorrectCode.Description":"The code does not match the one provided, check if you have **saved** the description and try again. [Roblox Profile](https://www.roblox.com/users/%RBLX_ID%/profile)"
+         }
+      },
+      "getrole":{
+         "EmbedRoles":{
+            "EmbedRoles.Color":5093956,
+            "EmbedRoles.Title":"Roles Updated",
+            "EmbedRoles.Field1":{
+               "name":"Nickname"
             },
-            "NotVerifiedWithRover": {
-                "NotVerifiedWithRover.Color": 7631988,
-                "NotVerifiedWithRover.Title": "Verify with Rover first!",
-                "NotVerifiedWithRover.Description": "You're not verified with [RoVer](https://rover.link/), please verify with it first."
+            "EmbedRoles.Field2":{
+               "name":"Roles Added"
             },
-            "EmbedVerify": {
-                "EmbedVerify.Color": 5093956,
-                "EmbedVerify.Title": "Verification Prompt",
-                "EmbedVerify.Description": "Welcome, Quaerit Services use Rover data, before continuing make sure you are verified with the right account on [RoVer Website.](https://rover.link/)\n\nClick `Done` for linking you're account or `Cancel` for cancel this prompt",
-                "EmbedVerify.Footer": "⤷ This Prompt will be cancelled in 5 Minutes."
-            },
-            "ButtonVerification": {
-                "ButtonVerificationDone.Label": "Done",
-                "ButtonVerificationCancel.Label": "Cancel"
-            },
-            "Verified": {
-                "Verified.Color": 7631988,
-                "Verified.Title": "<:Yes:926826294082146324> Quaerit Verification System • %RBLX_DISPLAYNAME%",
-                "Verified.Description": "Your account has been verified!\n\nCheck out our roblox group: [Quaerit Services](https://www.roblox.com/groups/11965836/Quaerit-Services#!/about)\nRun `/getrole` to update your discord roles.",
-                "Verified.Field1": {
-                    "name": "[+] Nickname Updated"
-                },
-                "Verified.Field2": {
-                    "name": "[+] Roles Added",
-                    "value": "Verified"
-                }
+            "EmbedRoles.Field3":{
+               "name":"Roles Removed"
             }
-        },
-        "reverify": {
-            "InvalidUserEmbed": {
-                "InvalidUserEmbed.Color": 16728368,
-                "InvalidUserEmbed.Title": "Invalid Username",
-                "InvalidUserEmbed.Description": "Roblox username is invalid."
-            },
-            "VerifiedEmbed": {
-                "VerifiedEmbed.Color": 5093956,
-                "VerifiedEmbed.Title": "<:Yes:926826294082146324> Congratulations!",
-                "VerifiedEmbed.Description": "You have been successfully verified with our systems\nRun `/getrole` for update you're roles and username."
-            },
-            "ButtonVerification": {
-                "ButtonVerificationDone.Label": "Done",
-                "ButtonVerificationCancel.Label": "Cancel"
-            },
-            "InsertCode": {
-                "InsertCode.Color": 5093956,
-                "InsertCode.Title": "Verification code",
-                "InsertCode.Description": "To continue verifying your roblox profile, enter the code below. Below you will find a tutorial on how to put the code on your profile\n\n[1] • Go to your profile page [ [Roblox Profile](https://www.roblox.com/users/%RBLX_ID%/profile) ]\n\n[2] • Click on the Pencil symbol next to your profile description (About) or click here to go to the page\n\n[3] Then copy and paste, then save the code in your description\n ```%CODICE_REVERIFY%```",
-                "InsertCode.Image": "https://cdn.discordapp.com/attachments/785872107119837195/896492300623052830/Senza_titolo-1.png",
-                "InsertCode.Footer": "↳This prompt will be cleared in 5 minutes"
-            },
-            "EmbedIncorrectCode": {
-                "EmbedIncorrectCode.Color": 16728368,
-                "EmbedIncorrectCode.Title": "<:No:926826294124101732> Code not found!",
-                "EmbedIncorrectCode.Description": "The code does not match the one provided, check if you have **saved** the description and try again. [Roblox Profile](https://www.roblox.com/users/%RBLX_ID%/profile)"
-            }
-        },
-        "getrole": {
-            "EmbedRoles": {
-                "EmbedRoles.Color": 5093956,
-                "EmbedRoles.Title": "Roles Updated",
-                "EmbedRoles.Field1": {
-                    "name": "Nickname"
-                },
-                "EmbedRoles.Field2": {
-                    "name": "Roles Added"
-                },
-                "EmbedRoles.Field3": {
-                    "name": "Roles Removed"
-                }
-            }
-        }
-    },
-    "codes": {
-        "feedback": {
-            "redeem": {
-                "CodeNotFound": {
-                    "CodeNotFound.Color": 16728368,
-                    "CodeNotFound.Title": "<:No:897489299908485170> Code not found",
-                    "CodeNotFound.Description": "Code you are trying to redeem does not exist or it has already been redeemed."
-                },
-                "CodeReedeem": {
-                    "CodeReedeem.Color": 5093956,
-                    "CodeReedeem.Title": "<:Yes:895295399814914109> Success",
-                    "CodeReedeem.Description": "The code %CODE% has been redeemed and added to your account."
-                }
-            }
-        }
-    }
+         }
+      }
+   },
+   "codes":{
+      "redeem":{
+         "CodeNotFound":{
+            "CodeNotFound.Color":16728368,
+            "CodeNotFound.Title":"<:No:897489299908485170> Code not found",
+            "CodeNotFound.Description":"Code you are trying to redeem does not exist or it has already been redeemed."
+         },
+         "CodeReedeem":{
+            "CodeReedeem.Color":5093956,
+            "CodeReedeem.Title":"<:Yes:895295399814914109> Success",
+            "CodeReedeem.Description":"The code %CODE% has been redeemed and added to your account."
+         }
+      }
+   }
 }
