@@ -158,12 +158,12 @@
             "redeem": {
                 "CodeNotFound": {
                     "CodeNotFound.Color": 16728368,
-                    "CodeNotFound.Title": "<:Yes:895295399814914109> Success",
+                    "CodeNotFound.Title": "<:No:897489299908485170> Code not found",
                     "CodeNotFound.Description": "Code you are trying to redeem does not exist or it has already been redeemed."
                 },
                 "CodeReedeem": {
                     "CodeReedeem.Color": 5093956,
-                    "CodeReedeem.Title": "<:No:897489299908485170> Code not found",
+                    "CodeReedeem.Title": "<:Yes:895295399814914109> Success",
                     "CodeReedeem.Description": "The code %CODE% has been redeemed and added to your account."
                 }
             }
