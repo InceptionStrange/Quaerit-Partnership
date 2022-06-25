@@ -13,7 +13,7 @@
         "NoPermissions": {
             "NoPermissions.Color": 16728368,
             "NoPermissions.Title": "<:No:897489299908485170> Non Autorizzato",
-            "NoPermissions.Description": "Il tuo server non risulta Whitelistato per usare il bot. **Partner Only**"
+            "NoPermissions.Description": "Non hai le autorizzazioni necessarie per eseguire il comando."
         },
         "PromptCancelled": {
             "PromptCancelled.Color": 7631988,
