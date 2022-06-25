@@ -9,18 +9,21 @@
       "DeveloperIcon":"<:Developer:898669590882680843>",
       "TeamHeadIcon":"<:TeamHeadIcon:898669603302014978>",
       "CreativeDirectorIcon":"<:CreativeDirector:898669625397624892>",
-      
-      "AnnounceIcon": "<:Announce:927965544257314826>"
+      "AnnounceIcon":"<:Announce:927965544257314826>"
    },
    "Feedback":{
-      "CostumerEmbedColor": 4762971,
-      "ValutedCostumerEmbedColor": 685103,
-      "TeamHead+Color": 16750660,
+      "CostumerEmbedColor":4762971,
+      "ValutedCostumerEmbedColor":685103,
+      "TeamHead+Color":16750660,
       "ChannelId":"969219348080230420",
       "StarIcon":"<:Star:954737999407632434>",
-      "FeedbackImage": "https://cdn.discordapp.com/attachments/882225784809467976/891377256834940958/IconFeedback.png"
+      "FeedbackImage":"https://cdn.discordapp.com/attachments/882225784809467976/891377256834940958/IconFeedback.png"
    },
    "Verify":{
-      "VerifiedRole": "927545953852993687"
+      "VerifiedRole":"927545953852993687"
+   },
+   "StatusUpdater":{
+      "ChannelId":"990229235492880395",
+      "MessageId":"0"
    }
 }
