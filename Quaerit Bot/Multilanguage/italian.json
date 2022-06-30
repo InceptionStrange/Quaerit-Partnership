@@ -31,7 +31,7 @@
          "SuccessMessage": {
             "SuccessMessage.Color": 5553664,
             "SuccessMessage.Title": "<:Utiliy:954084189978894436> • Aggiornato con Successo!",
-            "SuccessMessage.Description": "Lo stato dei servizi è stato modificato correttamente, nuovo stato: **%NEW_STATUS%**.",
+            "SuccessMessage.Description": "Lo stato dei servizi è stato modificato correttamente.",
             "SuccessMessage.Footer": {
                "text": "Per modificare nuovamente lo stato dei servizi digita: /servicestatus!",
                "icon_url": "https://media.discordapp.net/attachments/849944790832906260/936224959938842634/Quaerit_Logo_for_Discord.png?width=671&height=671"
@@ -44,7 +44,7 @@
             },
             "AviableStatus.Color": 5553664,
             "AviableStatus.Title": "Stati Disponibili",
-            "AviableStatus.Description": "🢒 🟢 Aperte & In corso\n🢒 🟠 Chiuse & In corso\n🢒 🔴 Chiuse\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🟢 🢒 Offriamo completo servizio ai nostri clienti e quelli futuri.\n\n🟠 🢒 Offriamo completo servizio ai nostri clienti ma non quelli futuri.\n\n🔴 🢒 Non offriamo nessun servizio, sia ai nostri clienti sia a quelli futuri.",
+            "AviableStatus.Description": "🢒 🟢 Aperte & In corso\n🢒 🟠 Chiuse & In corso\n🢒 🔴 Chiuse",
             "AviableStatus.Footer": {
                "text": "Stato Attuale • %STATUS%",
                "icon_url": "https://images-ext-1.discordapp.net/external/MJJFfU6hvQ_UxdYmt38RBrLkeWxeJ6uHSE5eNxUdQ-g/https/cdn.discordapp.com/avatars/971816713442168842/04bcd0f5e006e05b3a98d094a4cb03d7.webp?width=102&height=102"
