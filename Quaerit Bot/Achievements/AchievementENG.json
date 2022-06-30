@@ -1,17 +1,20 @@
 {
-    "BUILDER": {
+    "builder": {
+        "Name": "BUILDER",
         "Description": "Costruire su ROBLOX non è esattamente come mettere mattoncini Lego uno sopra l'altro, anche se a prima vista potrebbe sembrarlo. Le tue skill da architetto ed il tuo impegno è notevole!",
         "Instructions": "Manda le tue build nel canale <#964831751979540490>.",
         "Image": "https://media.discordapp.net/attachments/940728976031248484/964834547747414066/Achievement6.png?width=663&height=663",
         "EarnedMultipleTime": false
     },
-    "SCRIPTER": {
+    "scripter": {
+        "Name": "SCRIPTER",
         "Description": "'Fai lo scripter' dissero... 'Sarà facile' dissero... Questo achievement serve a testimoniare la tua dedicazione e impegno nello scripting.",
         "Instructions": "Manda i tuoi script nel canale <#964831751979540490>.",
         "Image": "https://cdn.discordapp.com/attachments/940728976031248484/964838534550794250/Achievement5.png",
         "EarnedMultipleTime": false
     },
-    "GFXer": {
+    "gfxer": {
+        "Name": "GFXer",
         "Description": "Portare roblox in un altro programma non è così scontato, hai dato sfogo alla tua creatività creando una o più GFX, rispettiamo la tua bravura!",
         "Instructions": "Manda le tue GFX nel canale <#964831751979540490>.",
         "Image": "https://cdn.discordapp.com/attachments/940728976031248484/964838535238680586/Achievement7.png",
